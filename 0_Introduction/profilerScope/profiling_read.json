@@ -1,0 +1,29 @@
+{
+    "action": "disable,read_kernel_counter,read_process,read_all,enable",
+    "perfList": {
+        "CE": [
+            [
+                1,
+                "CE_PERF_ACTIVE_CYCLES"
+            ],
+            [
+                4,
+                "CE_PERF_SEND_RM_WAVES"
+            ]
+        ],
+        "RM": [
+            [
+                2,
+                "RM_PERF_BUSY_CYCLES_P0"
+            ],
+            [
+                3,
+                "RM_PERF_DISPATCHED_WORKGROUPS_P0"
+            ],
+            [
+                4,
+                "RM_PERF_DISPATCHED_WAVES_P0"
+            ]
+        ]
+    }
+}
