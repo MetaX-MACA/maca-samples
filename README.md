@@ -96,7 +96,7 @@ Click the Sync fork button to synchronize the latest upstream Fork repository.
 
 ## Frequently Asked Questions
 
-Answers to frequently asked questions about MACA can be found at [MXMACA Programming Forum] (https://developer.metax-tech.com/forum/c/bian-cheng/14/).
+Answers to frequently asked questions about MACA can be found at [MXMACA Programming Forum](https://developer.metax-tech.com/forum/c/bian-cheng/14/).
 
 ## License
 
